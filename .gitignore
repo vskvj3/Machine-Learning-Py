@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# mglearn library useless
+mglearn/
+
 # C extensions
 *.so
 
